@@ -1,7 +1,677 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/routes/newsItems.js" line="18" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="03e52307-3ac3-4b7b-a367-322922c05463" name="Default" comment="" />
+    <list default="true" id="03e52307-3ac3-4b7b-a367-322922c05463" name="Default" comment="update diud">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/editor.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/img/photo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/jquery/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/jquery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/jquery/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@types/jquery/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/bundles/angular2-froala-wysiwyg.umd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/bundles/angular2-froala-wysiwyg.umd.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/bundles/angular2-froala-wysiwyg.umd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/editor.directive.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/editor.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/editor.directive.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/editor.directive.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/editor.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/editor.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/editor.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/editor.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/editor/index.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/index.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/index.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.directive.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.directive.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.directive.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/allLimit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/allSeries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/any.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/anyLimit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/anySeries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/concatLimit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/dist/async.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/find.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/findLimit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/findSeries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/foldl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/foldr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/forEach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/forEachLimit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/forEachOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/forEachOfLimit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/forEachOfSeries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/forEachSeries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/groupBy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/groupByLimit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/groupBySeries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/inject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/internal/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/internal/wrapAsync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/selectLimit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/selectSeries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/tryEach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/async/wrapSync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bson/lib/bson/parser/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/.github/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/froala_editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/froala_editor.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/froala_editor.pkgd.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/froala_editor.pkgd.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/froala_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/froala_style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/char_counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/char_counter.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/code_view.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/code_view.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/colors.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/draggable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/draggable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/emoticons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/emoticons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/file.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/file.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/fullscreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/fullscreen.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/help.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/help.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/image.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/image.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/image_manager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/image_manager.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/line_breaker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/line_breaker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/quick_insert.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/quick_insert.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/special_characters.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/special_characters.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/plugins/video.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/themes/dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/themes/dark.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/themes/gray.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/themes/gray.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/themes/red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/themes/red.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/themes/royal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/themes/royal.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/third_party/embedly.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/third_party/embedly.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/third_party/spell_checker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/css/third_party/spell_checker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/at.js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/aviary/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/bootstrap/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/bootstrap/lists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/bootstrap/modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/code-mirror.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/font-awesome-5-css.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/font-awesome-5-js.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/jquery/mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/jquery/ui_modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/require_js/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/require_js/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/require_js/js/lib/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/spell-checker/spell-checker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/api/get_html.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/api/init_destroy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/api/insert_html.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/api/live_code_preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/api/live_content_preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/api/selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/buttons/custom_buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/buttons/custom_dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/buttons/external_button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/buttons/subscript_superscript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/events/blur_focus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/events/content_changed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/events/drop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/events/image_removed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/events/initialized_destroy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/file_s3_upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/image/custom_button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/image/default_width.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/image/image_styles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/image/insert_base64.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/image_s3_upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/init_inside_iframe/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/init_inside_iframe/content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/init_inside_iframe/inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/init_on_click/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/init_on_click/inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/init_on_click/two_editors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/initialization/edit_in_popup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/initialization/init_on_button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/initialization/init_on_click.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/initialization/init_on_h1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/initialization/init_on_image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/initialization/init_on_link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/initialization/initialized_event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/international/direction_rtl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/international/language.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/international/rtl_ltr_buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/link/custom_validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/link/link_styles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/link/predefined_links.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/misc/scrollable_container.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/misc/scrollable_container_inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/paragraph_modes/enter_br.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/paragraph_modes/enter_div.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/paragraph_modes/enter_p.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/paste/attrs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/paste/plain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/paste/tags.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/plugins/char_counter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/plugins/full_screen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/plugins/line_breaker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/plugins/quick_insert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popular/disable_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popular/disable_paragraphs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popular/full.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popular/full_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popular/iframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popular/init_on_click.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popular/textarea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popular/toolbar_buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popular/toolbar_inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popular/two_instances.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popular/z_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popups/colors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popups/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/popups/emoticons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/styling/adjustable_height.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/styling/font_family.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/styling/height.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/styling/inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/styling/paragraph.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/styling/placeholder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/styling/width.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/table/cell_style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/table/insert_helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/table/nested.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/table/resize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/table/style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/tests/bottom_offset_scrollable_container.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/tests/bottom_scrollable_container.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/tests/core.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/tests/full_br.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/tests/full_page_bottom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/tests/image_manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/tests/init_on_click/full_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/tests/max_height.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/tests/toolbar_inline_two.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/tests/top_offset_scrollable_container.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/tests/top_scrollable_container.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/themes/dark.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/themes/gray.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/themes/red.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/themes/royal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/toolbar/bottom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/toolbar/bottom_offset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/toolbar/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/toolbar/external.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/toolbar/external_inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/toolbar/inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/toolbar/inline_selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/toolbar/offset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/toolbar/show_selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/toolbar/sticky.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/typing/keep_format.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/typing/shortcuts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/html/typing/tab.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/froala_editor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/froala_editor.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/en_ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/en_gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/pt_br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/pt_pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/zh_cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/languages/zh_tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/align.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/char_counter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/code_beautifier.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/code_view.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/colors.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/draggable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/emoticons.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/entities.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/file.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/font_family.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/font_size.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/forms.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/fullscreen.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/help.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/image.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/image_manager.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/inline_style.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/line_breaker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/link.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/lists.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/paragraph_format.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/paragraph_style.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/print.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/quick_insert.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/quote.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/save.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/special_characters.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/url.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/video.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/plugins/word_paste.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/third_party/embedly.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/third_party/image_aviary.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/js/third_party/spell_checker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/froala-editor/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.slim.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/.eslintrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/DOMEval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/camelCase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/nodeName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready-no-deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/readyException.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/stripAndCollapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/toType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHiddenWithinTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rboxStyle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deferred/exceptionHook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/ObjectFunctionString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/fnToString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/getProto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isFunction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/isWindow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/rnothtmlwhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/kareem/test/misc.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mongodb/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/cast/boolean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/cast/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/mongooseError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/parallelSave.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/operators/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/services/document/getEmbeddedDiscriminatorPath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/services/query/getEmbeddedDiscriminatorPath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/services/schema/getIndexes.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/internal/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/internal/doSeries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/internal/rest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/LICENCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/immutable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/mutable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xtend/test.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/async/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/LICENSE" afterPath="$PROJECT_DIR$/node_modules/async/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/README.md" afterPath="$PROJECT_DIR$/node_modules/async/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/apply.js" afterPath="$PROJECT_DIR$/node_modules/async/apply.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/applyEach.js" afterPath="$PROJECT_DIR$/node_modules/async/applyEach.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/applyEachSeries.js" afterPath="$PROJECT_DIR$/node_modules/async/applyEachSeries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/asyncify.js" afterPath="$PROJECT_DIR$/node_modules/async/asyncify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/auto.js" afterPath="$PROJECT_DIR$/node_modules/async/auto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/autoInject.js" afterPath="$PROJECT_DIR$/node_modules/async/autoInject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/cargo.js" afterPath="$PROJECT_DIR$/node_modules/async/cargo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/compose.js" afterPath="$PROJECT_DIR$/node_modules/async/compose.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/concat.js" afterPath="$PROJECT_DIR$/node_modules/async/concat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/concatSeries.js" afterPath="$PROJECT_DIR$/node_modules/async/concatSeries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/constant.js" afterPath="$PROJECT_DIR$/node_modules/async/constant.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/detect.js" afterPath="$PROJECT_DIR$/node_modules/async/detect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/detectLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/detectLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/detectSeries.js" afterPath="$PROJECT_DIR$/node_modules/async/detectSeries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/dir.js" afterPath="$PROJECT_DIR$/node_modules/async/dir.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/dist/async.js" afterPath="$PROJECT_DIR$/node_modules/async/dist/async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/dist/async.min.js" afterPath="$PROJECT_DIR$/node_modules/async/dist/async.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/doDuring.js" afterPath="$PROJECT_DIR$/node_modules/async/doDuring.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/doUntil.js" afterPath="$PROJECT_DIR$/node_modules/async/doUntil.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/doWhilst.js" afterPath="$PROJECT_DIR$/node_modules/async/doWhilst.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/during.js" afterPath="$PROJECT_DIR$/node_modules/async/during.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/each.js" afterPath="$PROJECT_DIR$/node_modules/async/each.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/eachLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/eachLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/eachOf.js" afterPath="$PROJECT_DIR$/node_modules/async/eachOf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/eachOfLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/eachOfLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/eachOfSeries.js" afterPath="$PROJECT_DIR$/node_modules/async/eachOfSeries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/eachSeries.js" afterPath="$PROJECT_DIR$/node_modules/async/eachSeries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/ensureAsync.js" afterPath="$PROJECT_DIR$/node_modules/async/ensureAsync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/every.js" afterPath="$PROJECT_DIR$/node_modules/async/every.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/everyLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/everyLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/everySeries.js" afterPath="$PROJECT_DIR$/node_modules/async/everySeries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/forever.js" afterPath="$PROJECT_DIR$/node_modules/async/forever.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/index.js" afterPath="$PROJECT_DIR$/node_modules/async/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/DoublyLinkedList.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/DoublyLinkedList.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/applyEach.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/applyEach.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/consoleFunc.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/consoleFunc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/createTester.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/createTester.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/doParallel.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/doParallel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/doParallelLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/doParallelLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/eachOfLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/eachOfLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/filter.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/filter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/initialParams.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/initialParams.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/map.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/parallel.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/parallel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/queue.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/queue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/internal/setImmediate.js" afterPath="$PROJECT_DIR$/node_modules/async/internal/setImmediate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/log.js" afterPath="$PROJECT_DIR$/node_modules/async/log.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/map.js" afterPath="$PROJECT_DIR$/node_modules/async/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/mapLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/mapLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/mapSeries.js" afterPath="$PROJECT_DIR$/node_modules/async/mapSeries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/mapValues.js" afterPath="$PROJECT_DIR$/node_modules/async/mapValues.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/mapValuesLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/mapValuesLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/mapValuesSeries.js" afterPath="$PROJECT_DIR$/node_modules/async/mapValuesSeries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/memoize.js" afterPath="$PROJECT_DIR$/node_modules/async/memoize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/nextTick.js" afterPath="$PROJECT_DIR$/node_modules/async/nextTick.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/package.json" afterPath="$PROJECT_DIR$/node_modules/async/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/parallel.js" afterPath="$PROJECT_DIR$/node_modules/async/parallel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/parallelLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/parallelLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/priorityQueue.js" afterPath="$PROJECT_DIR$/node_modules/async/priorityQueue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/queue.js" afterPath="$PROJECT_DIR$/node_modules/async/queue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/race.js" afterPath="$PROJECT_DIR$/node_modules/async/race.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/reduce.js" afterPath="$PROJECT_DIR$/node_modules/async/reduce.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/reduceRight.js" afterPath="$PROJECT_DIR$/node_modules/async/reduceRight.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/reflect.js" afterPath="$PROJECT_DIR$/node_modules/async/reflect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/reflectAll.js" afterPath="$PROJECT_DIR$/node_modules/async/reflectAll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/reject.js" afterPath="$PROJECT_DIR$/node_modules/async/reject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/rejectLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/rejectLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/rejectSeries.js" afterPath="$PROJECT_DIR$/node_modules/async/rejectSeries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/retry.js" afterPath="$PROJECT_DIR$/node_modules/async/retry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/retryable.js" afterPath="$PROJECT_DIR$/node_modules/async/retryable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/seq.js" afterPath="$PROJECT_DIR$/node_modules/async/seq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/series.js" afterPath="$PROJECT_DIR$/node_modules/async/series.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/setImmediate.js" afterPath="$PROJECT_DIR$/node_modules/async/setImmediate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/some.js" afterPath="$PROJECT_DIR$/node_modules/async/some.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/someLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/someLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/someSeries.js" afterPath="$PROJECT_DIR$/node_modules/async/someSeries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/sortBy.js" afterPath="$PROJECT_DIR$/node_modules/async/sortBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/timeout.js" afterPath="$PROJECT_DIR$/node_modules/async/timeout.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/times.js" afterPath="$PROJECT_DIR$/node_modules/async/times.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/timesLimit.js" afterPath="$PROJECT_DIR$/node_modules/async/timesLimit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/timesSeries.js" afterPath="$PROJECT_DIR$/node_modules/async/timesSeries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/transform.js" afterPath="$PROJECT_DIR$/node_modules/async/transform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/unmemoize.js" afterPath="$PROJECT_DIR$/node_modules/async/unmemoize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/until.js" afterPath="$PROJECT_DIR$/node_modules/async/until.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/waterfall.js" afterPath="$PROJECT_DIR$/node_modules/async/waterfall.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/whilst.js" afterPath="$PROJECT_DIR$/node_modules/async/whilst.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bson/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/bson/HISTORY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bson/README.md" afterPath="$PROJECT_DIR$/node_modules/bson/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bson/browser_build/bson.js" afterPath="$PROJECT_DIR$/node_modules/bson/browser_build/bson.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/binary.js" afterPath="$PROJECT_DIR$/node_modules/bson/lib/bson/binary.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/objectid.js" afterPath="$PROJECT_DIR$/node_modules/bson/lib/bson/objectid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/parser/calculate_size.js" afterPath="$PROJECT_DIR$/node_modules/bson/lib/bson/parser/calculate_size.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/parser/serializer.js" afterPath="$PROJECT_DIR$/node_modules/bson/lib/bson/parser/serializer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bson/lib/bson/symbol.js" afterPath="$PROJECT_DIR$/node_modules/bson/lib/bson/symbol.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bson/package.json" afterPath="$PROJECT_DIR$/node_modules/bson/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/README.md" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/package.json" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/sign.js" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/sign.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsonwebtoken/verify.js" afterPath="$PROJECT_DIR$/node_modules/jsonwebtoken/verify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/kareem/index.js" afterPath="$PROJECT_DIR$/node_modules/kareem/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/kareem/package.json" afterPath="$PROJECT_DIR$/node_modules/kareem/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/kareem/test/examples.test.js" afterPath="$PROJECT_DIR$/node_modules/kareem/test/examples.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/kareem/test/post.test.js" afterPath="$PROJECT_DIR$/node_modules/kareem/test/post.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/kareem/test/pre.test.js" afterPath="$PROJECT_DIR$/node_modules/kareem/test/pre.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/HISTORY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/pool.js" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/pool.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/error.js" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/sessions.js" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/sessions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/mongos.js" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/mongos.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/replset.js" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/replset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/shared.js" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/shared.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/3_2_support.js" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/3_2_support.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb-core/package.json" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb/CHANGES_3.0.0.md" afterPath="$PROJECT_DIR$/node_modules/mongodb/CHANGES_3.0.0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/mongodb/HISTORY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/bulk/ordered.js" afterPath="$PROJECT_DIR$/node_modules/mongodb/lib/bulk/ordered.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/bulk/unordered.js" afterPath="$PROJECT_DIR$/node_modules/mongodb/lib/bulk/unordered.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/mongo_client.js" afterPath="$PROJECT_DIR$/node_modules/mongodb/lib/mongo_client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb/lib/topologies/mongos.js" afterPath="$PROJECT_DIR$/node_modules/mongodb/lib/topologies/mongos.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongodb/package.json" afterPath="$PROJECT_DIR$/node_modules/mongodb/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/.eslintignore" afterPath="$PROJECT_DIR$/node_modules/mongoose/.eslintignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/mongoose/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/History.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/README.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/aggregate.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/aggregate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/cast.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/cast.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/connection.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/connection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/document.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/document.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error/cast.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/cast.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error/index.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/error/validator.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/error/validator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/internal.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/internal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/model.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/model.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/query.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/query.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/queryhelpers.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/queryhelpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/boolean.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/boolean.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/operators/exists.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/operators/exists.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/string.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/schema/string.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/services/document/cleanModifiedSubpaths.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/services/document/cleanModifiedSubpaths.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/services/model/discriminator.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/services/model/discriminator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/services/populate/getSchemaTypes.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/services/populate/getSchemaTypes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/services/populate/getVirtual.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/services/populate/getVirtual.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/services/query/castUpdate.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/services/query/castUpdate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/types/array.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/types/array.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/types/documentarray.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/types/documentarray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/types/embedded.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/types/embedded.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/lib/virtualtype.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/lib/virtualtype.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/migrating_to_5.md" afterPath="$PROJECT_DIR$/node_modules/mongoose/migrating_to_5.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/package.json" afterPath="$PROJECT_DIR$/node_modules/mongoose/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mongoose/website.js" afterPath="$PROJECT_DIR$/node_modules/mongoose/website.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,49 +680,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="passport.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/passport.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-src/src/app/app.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-src/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="81" lean-forward="false" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-src/src/app/navbar/navbar.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular-src/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".editorconfig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-src/.editorconfig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -61,51 +701,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-src/src/app/app.component.html">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-src/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-src/src/app/app.module.ts">
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-src/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <file leaf-file-name="protractor.conf.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/angular-src/protractor.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="68" lean-forward="false" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vecino.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/vecino.js">
+      <file leaf-file-name="tslint.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-src/tslint.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,30 +756,58 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>User</find>
+      <find>NewsItemName</find>
+      <find>res.render</find>
+      <find>newsItem-list</find>
+      <find>add</find>
+      <find>algo</find>
     </findStrings>
     <replaceStrings>
       <replace>Vecino</replace>
+      <replace>NewsItem</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mean-app" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/angular-src" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/config/database.js" />
         <option value="$PROJECT_DIR$/models/user.js" />
-        <option value="$PROJECT_DIR$/angular-src/angular-cli.json" />
-        <option value="$PROJECT_DIR$/angular-src/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/models/vecino.js" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/config/passport.js" />
         <option value="$PROJECT_DIR$/routes/users.js" />
         <option value="$PROJECT_DIR$/angular-src/src/index.html" />
-        <option value="$PROJECT_DIR$/angular-src/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/register/register.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/validate.service.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/register/register.component.ts" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular2-flash-messages/module/index.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/package.json" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/login/login.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/login/login.component.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/profile/profile.component.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/profile/profile.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/navbar/navbar.component.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/auth.service.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/guards/auth.guard.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/dashboard/dashboard.component.html" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/newsItem.service.ts" />
+        <option value="$PROJECT_DIR$/models/newsItem.js" />
+        <option value="$PROJECT_DIR$/routes/newsItems.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/news/news.component.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/home/home.component.html" />
         <option value="$PROJECT_DIR$/angular-src/src/app/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/angular-src/angular-cli.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/news/news.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/news-item-creator/news-item-creator.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/news-item-creator/news-item-creator.component.ts" />
       </list>
     </option>
   </component>
@@ -158,13 +818,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/angular-src/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="367" />
+    <option name="width" value="974" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -182,6 +846,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,12 +858,6 @@
               <item name="treez" type="b2602c69:ProjectViewProjectNode" />
               <item name="treez" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="angular-src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="treez" type="b2602c69:ProjectViewProjectNode" />
-              <item name="treez" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="angular-src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="treez" type="b2602c69:ProjectViewProjectNode" />
@@ -219,7 +878,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -228,9 +886,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lewis\Desktop\treez\angular-src\src\app\services" />
+      <recent name="C:\Users\Lewis\Desktop\treez\routes" />
+      <recent name="C:\Users\Lewis\Desktop\treez\models" />
       <recent name="C:\Users\Luis\Desktop\treez\models" />
     </key>
   </component>
@@ -260,49 +923,217 @@
       <option name="presentableId" value="Default" />
       <updated>1527419720410</updated>
       <workItem from="1527419722839" duration="16754000" />
+      <workItem from="1527539115472" duration="947000" />
+      <workItem from="1528050770119" duration="4135000" />
+      <workItem from="1529341512947" duration="18712000" />
+      <workItem from="1529391816463" duration="2987000" />
+      <workItem from="1530469759422" duration="2809000" />
+      <workItem from="1531152165965" duration="4422000" />
+      <workItem from="1531159623283" duration="346000" />
     </task>
+    <task id="LOCAL-00001" summary="update diud">
+      <created>1531158403351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531158403351</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update diud">
+      <created>1531158580852</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531158580852</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16754000" />
+    <option name="totallyTimeSpent" value="51112000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35478806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14765458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33118972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33118972" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14765458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/mean-app" />
+    </ignored-roots>
+    <MESSAGE value="update diud" />
+    <option name="LAST_COMMIT_MESSAGE" value="update diud" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mean-app/src/main.ts">
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/html/init_on_click/two_editors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/html/popular/two_instances.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/html/3rd-party/jquery/ui_modal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/js/languages/uk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/async/unmemoize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mongodb/lib/bulk/unordered.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/async/until.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/js/plugins/url.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mongoose/lib/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bson/lib/bson/parser/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mongoose/lib/error/validator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/font-awesome/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -310,7 +1141,153 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mean-app/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/node_modules/jsonwebtoken/verify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/js/languages/vi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/css/plugins/video.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/css/plugins/video.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/js/plugins/video.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.directive.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.directive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.directive.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.directive.metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.module.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.module.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/angular2-froala-wysiwyg/view/view.module.metadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mongoose/lib/virtualtype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/async/waterfall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mongoose/website.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/async/whilst.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/html/styling/width.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/js/plugins/word_paste.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/async/forEachLimit.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -318,7 +1295,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mean-app/karma.conf.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/src/wrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -326,7 +1303,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mean-app/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/node_modules/async/internal/wrapAsync.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -334,147 +1311,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="58" lean-forward="false" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jsonwebtoken/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/passport-jwt/lib/auth_header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/passport-jwt/lib/extract_jwt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-src/angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="32" lean-forward="false" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-src/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-src/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/node_modules/async/wrapSync.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/passport.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/mongodb/yarn.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/users.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/mongodb-core/yarn.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="68" lean-forward="false" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/vecino.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/html/popular/z_index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-src/src/index.html">
+    <entry file="file://$PROJECT_DIR$/node_modules/froala-editor/js/languages/zh_tw.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="81" lean-forward="false" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-src/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-src/src/app/navbar/navbar.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-src/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/protractor.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
